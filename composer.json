@@ -1,0 +1,17 @@
+{
+  "name" : "andreseko/Komercy",
+  "type": "library",
+  "description": "Biblioteca de pagamentos via cartão de crédito REDECARD.",
+  "keywords": ["api", "pagamentos",  "redecard", "cartão de crédito", "card"],
+  "license" : "MIT",
+  "version" : "1.0.0",
+  "authors": [
+        {
+            "name": "Andre Goncalves",
+            "email": "andreseko@gmail.com"
+        }
+  ],
+  "require" : {
+    "php" : ">=5.3"
+  }
+}
