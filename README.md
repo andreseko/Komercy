@@ -11,7 +11,7 @@ Se você já conhece o **Composer**, adicione a dependência abaixo à diretiva 
 ```
 
 ## Como Usar
-### Lendo um arquivo de Retorno
+### Criando uma requisão de pagamento.
 ```php
 $komercy = new Komercy\Komercy('12345'); // Onde 1234 é o seu número de afiliado.
 
