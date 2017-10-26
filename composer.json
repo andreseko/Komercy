@@ -1,8 +1,8 @@
 {
-  "name" : "andreseko/Komercy",
+  "name" : "andreseko/komercy",
   "type": "library",
   "description": "Biblioteca de pagamentos via cartão de crédito REDECARD.",
-  "keywords": ["api", "pagamentos",  "redecard", "cartão de crédito", "card"],
+  "keywords": ["api", "pagamentos",  "redecard", "cartão de crédito", "card", "payment", "gateway", "credit"],
   "license" : "MIT",
   "version" : "1.0.0",
   "authors": [
